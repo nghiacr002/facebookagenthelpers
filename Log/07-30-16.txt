@@ -1,0 +1,15 @@
+call name get
+--------07-30-2016 10:06:04-------
+Facebook\Request::__set_state(array(
+   '_aRequestHeaders' => 
+  array (
+  ),
+   '_aSegments' => 
+  array (
+    0 => 'thilathang',
+  ),
+   '_aParams' => 
+  array (
+  ),
+   '_sMethod' => 'GET',
+))
